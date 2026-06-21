@@ -18,6 +18,7 @@ I enjoy designing and implementing efficient business solutions that streamline 
 
 
 
+
 ### Skills 
 * Python
 * Odoo Development
